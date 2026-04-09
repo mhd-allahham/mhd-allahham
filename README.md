@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hallo 
 
-<!--
-**mhd-allahham/mhd-allahham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin Mohamad Allahham
 
-Here are some ideas to get you started:
+Ich habe Maschinenbau studiert und lerne seit über zwei Jahren Programmierung mit großer Leidenschaft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Fähigkeiten
+- C++
+- C#
+- SQL
+- Objektorientierte Programmierung (OOP)
+- Problemlösung und logisches Denken
+
+##  Erfahrung
+- Grundlagen in GUI-Entwicklung mit .NET Framework und Qt
+- Erste praktische Erfahrung im Bereich Embedded Systems (Arduino, Temperatursensoren, Steuerungssysteme)
+
+##  Projekte
+- Bank System (Procedural C++)
+- Bank System (OOP C++)
+- Weitere Projekte in Entwicklung
+
+##  Kontakt
+- LinkedIn: [LinkedIn Profil](https://www.linkedin.com/in/allahham-mo)
